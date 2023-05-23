@@ -5,7 +5,7 @@
  </h5>
 
 <h2>
-Let's start from Jupyter Notebook -
+Let's start from Jupyter Notebook 
   <br>
   <br>
   <p>to import python libraries</p> 
