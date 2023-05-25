@@ -8,7 +8,7 @@
 Let's start from Jupyter Notebook 
   <br>
   <br>
-  <p>to import python libraries</p> 
+  <p>To import python libraries</p> 
 </h2>
 
 ```python
