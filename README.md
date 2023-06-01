@@ -1,4 +1,4 @@
-# Entertainer Data Analysis
+# Entertainers Data Analysis
 
 <h5>
  This is Analysis of Entertainer Data in which the Key columns are include Entertainer(Name), Gender, Birth Year, Year of Breakthrough/#1 Hit/Award Nomination, Breakthrough Name, Year of First Oscar/Grammy/Emmy, Year of Last Major Work (arguable), Year of Death, Award Won from Breakthrough, Total Awards won, Total Nominees, Profession, Oscar won, Grammy won, Emmy won, and Other Awards.
