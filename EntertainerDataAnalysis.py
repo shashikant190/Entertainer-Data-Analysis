@@ -26,7 +26,7 @@ for i in range(4):
     year = breakthrough_years[index]
     print(f"Entertainer: {name}, Breakthrough Year: {year}")
 
-# 3. who is the oldest Entertainer in the dataset ?
+# 3. Who is the oldest Entertainer in the dataset ?
 
 birth_years = data['Birth Year'].to_numpy()
 oldest_index = np.argmin(birth_years)
