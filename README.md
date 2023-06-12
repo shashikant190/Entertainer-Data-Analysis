@@ -18,7 +18,7 @@ import numpy as np
 import pandas as pd
 ```
 <h4>
-To import excel file which consist the dataset
+To import excel file which consist the datasets
 </h4>
 
 ```python
